@@ -14,29 +14,33 @@ body {
 }
 #relogio {
   background-color: gray;
-  border-color: black;
-  border-style: groove;
+  border: 2px solid black;
+  /* border-color: black;
+  border-style: groove; */
   width: 300px;
   height: 150px;
   padding: 3px;
 }
 #tela {
   background-color: rgb(0, 0, 0);
-  border-style: groove;
-  border-color: black;
+  border: 2px solid black;
+  /* border-style: groove;
+  border-color: black; */
   height: 140px;
 }
 #apoio {
   background-color: rgb(122, 90, 47);
-  border-style: groove;
-  border-color: black;
+  border: 2px solid black;
+  /* border-style: groove;
+  border-color: black; */
   width: 630px;
   height: 25px;
 }
 #corpo {
   background-color: rgb(122, 90, 47);
-  border-color: black;
-  border-style: groove;
+  border: 2px solid black;
+  /* border-color: black;
+  border-style: groove; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -48,16 +52,18 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  border-style: groove;
-  border-color: black;
+  border: 2px solid black;
+  /* border-style: groove;
+  border-color: black; */
   width: 500px;
   height: 150px;
 }
 #puxador {
   background-color: rgb(122, 90, 47);
-  border-color: black;
-  border-style: groove;
+  border: 2px solid black;
+  /* border-color: black;
+  border-style: groove; */
   border-radius: 50%;
-  height: 90px;
-  width: 90px;
+  height: 80px;
+  width: 80px;
 }
